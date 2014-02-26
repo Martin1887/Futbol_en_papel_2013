@@ -1,0 +1,3 @@
+GanaJ1 (1/0)	minDistMetaJ1	minDistMetaJ2	turnosCampoJ1	turnosCampoJ2	turnos totales	evaluación (600*gana+40*minDistMetaJ1-40*minDistMetaJ2+2*porcentajeCampoJ2-5*turnosTotales si gana y +5*turnosTotales si pierde)	evaluación-2^(tM-2s)
+0.0	0.0	6.5	30.5	8.0	38.5	-26.590909090909093	-26.590909090909093
+0.0	0.0	6.5	43.0	7.5	50.5	23.035855003940114	23.035855003940114
